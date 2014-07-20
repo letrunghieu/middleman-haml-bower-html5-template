@@ -1,0 +1,35 @@
+{
+  "name": "middleman-haml-bower-html5-template",
+  "version": "1.0.0",
+  "homepage": "https://github.com/letrunghieu/middleman-haml-bower-html5-template",
+  "authors": [
+    "Hieu Le <letrunghieu.cse09@gmail.com>"
+  ],
+  "description": "A template for middleman project with Haml engine, bower, scss and coffee script based on HTML5 Boilerplate",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "middleman",
+    "haml",
+    "bower",
+    "scss",
+    "coffee",
+    "script",
+    "html5"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/assets/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11",
+    "modernizr": "~2.8.3"
+  }
+}
